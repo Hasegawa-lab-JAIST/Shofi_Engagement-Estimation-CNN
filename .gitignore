@@ -1,9 +1,11 @@
 # production
-/logs
 /__pycache__
 
 # misc
 .DS_Store
+
+# log
+*.csv
 
 
 
